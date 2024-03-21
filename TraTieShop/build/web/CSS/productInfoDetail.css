@@ -1,0 +1,149 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : Oct 18, 2023, 11:20:02 PM
+    Author     : nqtie
+*/
+.productInfo2{
+    margin-top: 200px;
+}
+.URLProduct {
+    padding: 5px;
+    margin: 0 10%;
+    border: 1px;
+    box-shadow: 1px 1px 1px 1px grey;
+    margin-bottom: 20px;
+}
+.URLProduct a{
+    font-size: 20px;
+    font-weight: 600;
+    text-decoration: none;
+    color: black;
+}
+.productInfoDetail {
+    margin: 0 10%;
+}
+
+.productInfoDetail {
+    box-shadow: 2px 2px 2px 2px gainsboro;
+    display: flex;
+    justify-content: space-between;
+}
+
+.productImage {
+    width: 45%;
+}
+
+.main_image  img {
+    width: 450px;
+    height: 450px;
+}
+
+.sub_image  img {
+    width: 109px;
+    height: 109px;
+}
+
+.productContent {
+    padding: 10px;
+    width: 55%;
+}
+
+.productContent {
+    text-align: justify;
+}
+
+.productContent p {
+    margin-bottom: 30px;
+}
+
+.ProductName {
+    font-size: 20px;
+    font-weight: 600;
+    margin-top: 0px;
+    margin-bottom: 30px;
+}
+
+.quantity {
+    margin-bottom: 50px;
+}
+
+.quantity input {
+    text-align: center;
+    margin-left: -4px;
+    margin-right: -4px;
+    width: 15px;
+}
+
+.quantity_header {
+    margin-right: 200px;
+}
+
+.form_product {
+    margin-top: 90px;
+}
+
+.submit_Form {
+    display: flex;
+    justify-content: space-around;
+}
+
+.submit_Form button {
+    padding: 8px;
+}
+.oldprice{
+    text-decoration: line-through;
+    color: grey;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.ProductPrice{
+    font-size: 20px;
+    font-weight: 600;
+}
+.newPrice{
+    color: red;
+}
+.discount{
+    background-color: red;
+    margin-left: 3px;
+    padding: 2px;
+    border: 1px solid red;
+    border-radius: 20px;
+    width: 10px;
+}
+.shipping{
+    display: flex;
+}
+.shipping_info{
+    margin-top: 0px;
+    margin-left: 20px;
+}
+.form_flex{
+    display: flex;
+    padding-bottom: 10px;
+}
+.buttonSubmit1{
+    padding:8px;
+}
+.buttonSubmit2{
+    padding:8px;
+}
+.buttonSubmit2{
+    margin-top: 162px;
+    margin-left: 30px;
+}
+.buttonSubmit1{
+    margin-left: 155px;
+}
+#listProductInOrderDeatil{
+    box-shadow: 3px 3px 3px 3px gainsboro;
+    padding: 3px;
+    border-radius: 20px;
+    margin-top: 20px;
+    margin-left: 10%;
+    margin-right: 10%;
+    font-family: arial;
+}

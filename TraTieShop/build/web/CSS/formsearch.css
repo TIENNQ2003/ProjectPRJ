@@ -1,0 +1,40 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : Oct 18, 2023, 3:52:09 PM
+    Author     : nqtie
+*/
+.ProductByCid{
+    margin-top: 190px;
+}
+.button input{
+    text-align: center;
+}
+.headerSearch{
+    padding-top: 20px;
+    margin: 0 5%;
+}
+.productHeader{
+    margin: 0 5%;
+
+}
+.URLProduct{
+    padding: 3px;
+    margin: 0 5%;
+    border: 1px;
+    box-shadow: 1px 1px 1px 1px grey;
+}
+.URLProduct a{
+    font-size: 20px;
+    text-decoration: none;
+    font-weight: 600;
+    color: black;
+}
+.oderPrice{
+    padding-left: 200px;
+}
+.button input{
+    margin-top: 15px;
+}
